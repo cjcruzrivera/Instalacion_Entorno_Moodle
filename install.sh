@@ -17,11 +17,13 @@ sudo apt-get install \
 
 sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/debian \
-   $(lsb_release -cs) \
+   stretch \
    stable"
 
 sudo apt-get update
 
 sudo apt-get install docker-ce
 
+docker pull cjcruzrivera/moodle
 
+docker run -dtip 81 --restart always --name moodle34 cjcruzrivera/moodle
