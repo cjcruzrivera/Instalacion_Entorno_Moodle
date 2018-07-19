@@ -1,8 +1,6 @@
 #!/bin/bash
 
 sudo apt-get update
-sudo apt-get upgrade -y
-echo "actualizadas librerias"
 
 #Eliminando versiones viejas de docker 
 sudo apt-get remove docker docker-engine docker.io
