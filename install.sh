@@ -26,4 +26,4 @@ sudo apt-get install docker-ce
 
 docker pull cjcruzrivera/moodle
 
-docker run -dtip 81 --restart always --name moodle34 cjcruzrivera/moodle
+docker run -dtip 81:80 --restart always --name moodle34 cjcruzrivera/moodle
