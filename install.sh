@@ -1,5 +1,13 @@
 #!/bin/bash
 
+###############################################################################
+### Instalación del entorno de desarrollo de la estrategia ASES para debian ###
+###############################################################################
+
+echo 'deb http://apt.postgresql.org/pub/repos/apt/ stretch-pgdg main' >> /etc/apt/sources.list.d/pgdg.list
+
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
 sudo apt-get update
 
 #Eliminando versiones viejas de docker 
@@ -10,7 +18,15 @@ sudo apt-get install \
      ca-certificates \
      curl \
      gnupg2 \
-     software-properties-common
+     software-properties-common \
+     postgresql-9.6-server \
+     postgresql-9.6   
+
+sudo -u postgres bash -c "psql -c \"CREATE USER ubuntu WITH PASSWORD 'talentos';\""
+
+sudo -u postgres bash -c "psql -c \"CREATE DATABASE moodle34 OWNER ubuntu;\""
+
+sudo -u postgres bash -c "psql -d moodle34 -f moodle_33_june_3.sql"
 
 
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
@@ -23,7 +39,3 @@ sudo add-apt-repository \
 sudo apt-get update
 
 sudo apt-get install docker-ce
-
-docker pull cjcruzrivera/moodle
-
-docker run -dtip 81 --restart always --name moodle34 cjcruzrivera/moodle
