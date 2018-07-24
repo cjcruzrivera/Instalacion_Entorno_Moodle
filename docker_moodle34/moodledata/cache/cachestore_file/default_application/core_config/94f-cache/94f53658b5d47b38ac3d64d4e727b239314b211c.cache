@@ -1,0 +1,11 @@
+a:5:{s:7:"version";s:10:"2017111300";s:22:"texfiltercompatibility";s:1:"0";s:20:"additionaldelimiters";s:0:"";s:13:"mathjaxconfig";s:306:"
+MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$$','$$'], ["\\[","\\]"],["\\(","\\)"] ],
+      displayMath: [ ["\\[","\\]"] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });";s:8:"httpsurl";s:63:"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js";}

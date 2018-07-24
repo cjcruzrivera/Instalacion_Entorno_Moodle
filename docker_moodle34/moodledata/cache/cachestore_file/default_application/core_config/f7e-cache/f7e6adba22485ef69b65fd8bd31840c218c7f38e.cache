@@ -1,0 +1,5 @@
+a:4:{s:14:"fontselectlist";s:338:"Trebuchet=Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;Arial=arial,helvetica,sans-serif;Courier New=courier new,courier,monospace;Georgia=georgia,times new roman,times,serif;Tahoma=tahoma,arial,helvetica,sans-serif;Times New Roman=times new roman,times,serif;Verdana=verdana,arial,helvetica,sans-serif;Impact=impact;Wingdings=wingdings";s:12:"customconfig";s:0:"";s:7:"version";s:10:"2017111300";s:13:"customtoolbar";s:398:"wrap,formatselect,wrap,bold,italic,wrap,bullist,numlist,wrap,link,unlink,wrap,image
+
+undo,redo,wrap,underline,strikethrough,sub,sup,wrap,justifyleft,justifyfull,justifycenter,justifyright, justifyfull,wrap,outdent,indent,wrap,forecolor,backcolor,wrap,ltr,rtl,wrap,nonbreaking,charmap,table
+
+fontselect,fontsizeselect,code,search,replace,wrap,cleanup,removeformat,pastetext,pasteword,wrap,fullscreen";}

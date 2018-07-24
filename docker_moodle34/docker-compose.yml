@@ -1,0 +1,16 @@
+version: '2.0'
+services:
+
+  moodle:
+    build: php7.0
+    restart: always
+    container_name: moodle
+    volumes:
+      - /home/sistemascamilo/Documentos/ASES/docker_moodle33/moodledata:/var/www/moodledata
+      - /home/sistemascamilo/Documentos/ASES/docker_moodle33/moodle:/var/www/html/moodle
+    expose: 
+      - 80
+    ports:
+      - 81:80
+    tty: true
+

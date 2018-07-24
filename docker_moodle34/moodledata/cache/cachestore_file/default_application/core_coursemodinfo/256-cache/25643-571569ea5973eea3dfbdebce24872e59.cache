@@ -1,0 +1,153 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:53:{i:575568;O:8:"stdClass":14:{s:2:"id";s:5:"54331";s:2:"cm";s:6:"575568";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1479827996";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:12:"availability";s:60:"{"op":"&","c":[{"type":"group","id":10514}],"showc":[false]}";s:4:"name";s:53:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reporte Genera...";s:7:"content";s:1553:"<div class="no-overflow"><p></p>
+<table style="margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/student_profile.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1106485/mod_label/intro/Ficha%20del%20estudiantee.png" width="200" height="94" /></a></p>
+</td>
+<td><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/ases_report.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1106485/mod_label/intro/Reporte%20general.png" width="200" height="94" /></a></td>
+</tr>
+</tbody>
+</table>
+<center>
+<table border="0" style="width: 119px; height: 157px;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p></p>
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/report_trackings.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1106485/mod_label/intro/Listados.png" width="140" height="140" /></a></p>
+<p>Reporte General de Seguimientos</p>
+</td>
+<td style="text-align: center;">
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/groupal_tracking.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1106485/mod_label/intro/Socioeducativo.png" width="140" height="140" /></a></p>
+<p>Seguimientos Grupales</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</center>
+<p></p></div>";}i:705696;O:8:"stdClass":14:{s:2:"id";s:5:"65817";s:2:"cm";s:6:"705696";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1479827996";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:12:"availability";s:60:"{"op":"&","c":[{"type":"group","id":11383}],"showc":[false]}";s:4:"name";s:53:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...";s:7:"content";s:975:"<div class="no-overflow"><p></p>
+<table style="margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/student_profile.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1392789/mod_label/intro/Ficha%20del%20estudiantee.png" width="200" height="94" /></a></p>
+</td>
+<td><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/ases_report.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1392789/mod_label/intro/Reporte%20general.png" width="200" height="94" /></a></td>
+</tr>
+</tbody>
+</table>
+<center>
+<table border="0" style="width: 119px; height: 157px;">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p></p>
+<p></p>
+</td>
+<td style="text-align: center;">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</center>
+<p></p></div>";}i:661415;O:8:"stdClass":14:{s:2:"id";s:5:"61529";s:2:"cm";s:6:"661415";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1479827996";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:12:"availability";s:60:"{"op":"&","c":[{"type":"group","id":10515}],"showc":[false]}";s:4:"name";s:31:"
+
+REGISTRO CALIFICACIONES
+
+";s:7:"content";s:502:"<div class="no-overflow"><center>
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/grade_categories.php?courseid=25643&amp;instanceid=450299"><img src="http://localhost:81/moodle/pluginfile.php/1297157/mod_label/intro/Listados.png" width="140" height="158" /></a></p>
+<p><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/grade_categories.php?courseid=25643&amp;instanceid=450299"><strong>REGISTRO CALIFICACIONES</strong></a></p>
+</center>
+<p></p></div>";}i:646584;O:8:"stdClass":14:{s:2:"id";s:5:"60405";s:2:"cm";s:6:"646584";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1504017972";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:12:"availability";s:60:"{"op":"&","c":[{"type":"group","id":10630}],"showc":[false]}";s:4:"name";s:21:"
+REPORTES ACADEMICOS";s:7:"content";s:225:"<div class="no-overflow"><p></p>
+<h1><strong><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/academic_reports.php?courseid=25643&amp;instanceid=450299">REPORTES ACADEMICOS</a><br /></strong></h1></div>";}i:646586;O:8:"stdClass":12:{s:2:"id";s:5:"60406";s:2:"cm";s:6:"646586";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1504017972";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:8:"Etiqueta";}i:646588;O:8:"stdClass":12:{s:2:"id";s:5:"60408";s:2:"cm";s:6:"646588";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1504017972";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:8:"Etiqueta";}i:646587;O:8:"stdClass":12:{s:2:"id";s:5:"60407";s:2:"cm";s:6:"646587";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1504017972";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:8:"Etiqueta";}i:632682;O:8:"stdClass":13:{s:2:"id";s:5:"59063";s:2:"cm";s:6:"632682";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1501621178";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:15:"showdescription";s:1:"1";s:4:"name";s:53:"
+
+REGISTRAR SEGUIMIENTO GRUPAL
+
+
+
+REPORTE GE...";s:7:"content";s:458:"<div class="no-overflow"><hr />
+<ul>
+<li><strong><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/seguimiento_grupal.php?courseid=25643&amp;instanceid=450299">REGISTRAR SEGUIMIENTO GRUPAL</a></strong></li>
+</ul>
+<p></p>
+<ul>
+<li><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/seguimiento_pilos.php?courseid=25643&amp;instanceid=450299"><strong>REPORTE GENERAL DE SEGUIMIENTOS</strong></a></li>
+</ul></div>";}i:623235;O:8:"stdClass":14:{s:2:"id";s:5:"57909";s:2:"cm";s:6:"623235";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"8";s:5:"added";s:10:"1494969306";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:12:"availability";s:124:"{"op":"&","c":[{"type":"profile","sf":"email","op":"isequalto","v":"isabel.santana@correounivalle.edu.co"}],"showc":[false]}";s:4:"name";s:24:"REPORTE NOTAS PROFESORES";s:7:"content";s:212:"<div class="no-overflow"><p><strong><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/ases/view/general_reports.php?courseid=25643&amp;instanceid=450299">REPORTE NOTAS PROFESORES</a></strong></p></div>";}i:646589;O:8:"stdClass":11:{s:2:"id";s:5:"53471";s:2:"cm";s:6:"646589";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:6:"392712";s:6:"module";s:1:"4";s:5:"added";s:10:"1504018210";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:6:"Avisos";}i:499982;O:8:"stdClass":13:{s:2:"id";s:5:"48548";s:2:"cm";s:6:"499982";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:6:"392713";s:6:"module";s:1:"8";s:5:"added";s:10:"1456153579";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:29:"
+Reporte de inasistencias.
+";s:7:"content";s:204:"<div class="no-overflow"><ul>
+<li><a href="https://campusvirtual.univalle.edu.co/moodle/blocks/configurable_reports/viewreport.php?id=3&amp;courseid=25643">Reporte de inasistencias.</a></li>
+</ul></div>";}i:508282;O:8:"stdClass":11:{s:2:"id";s:5:"22823";s:2:"cm";s:6:"508282";s:3:"mod";s:3:"url";s:7:"section";s:1:"1";s:9:"sectionid";s:6:"392713";s:6:"module";s:2:"27";s:5:"added";s:10:"1459289656";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:25:"Seguimiento inasistencias";}i:508954;O:8:"stdClass":11:{s:2:"id";s:5:"22870";s:2:"cm";s:6:"508954";s:3:"mod";s:3:"url";s:7:"section";s:1:"1";s:9:"sectionid";s:6:"392713";s:6:"module";s:2:"27";s:5:"added";s:10:"1459356914";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:52:"Reporte inasistencias del 28 de marzo al 30 de marzo";}i:526445;O:8:"stdClass":12:{s:2:"id";s:4:"4449";s:2:"cm";s:6:"526445";s:3:"mod";s:4:"page";s:7:"section";s:1:"1";s:9:"sectionid";s:6:"392713";s:6:"module";s:2:"26";s:5:"added";s:10:"1462983585";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:4:"name";s:36:"Acceso al calificador de Asistencias";s:7:"onclick";s:229:"window.open('http://localhost:81/moodle/mod/page/view.php?id=526445&amp;inpopup=1', '', 'width=620,height=450,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;";}i:539508;O:8:"stdClass":23:{s:2:"id";s:3:"114";s:2:"cm";s:6:"539508";s:3:"mod";s:10:"attendance";s:7:"section";s:1:"1";s:9:"sectionid";s:6:"392713";s:6:"module";s:2:"33";s:5:"added";s:10:"1471019807";s:5:"score";s:1:"0";s:8:"idnumber";s:0:"";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"0";s:10:"groupingid";s:1:"0";s:6:"indent";s:1:"0";s:10:"completion";s:1:"0";s:5:"extra";s:0:"";s:25:"completiongradeitemnumber";N;s:14:"completionview";s:1:"0";s:18:"completionexpected";s:1:"0";s:15:"showdescription";s:1:"0";s:12:"availability";N;s:18:"deletioninprogress";s:1:"0";}i:514634;O:8:"stdClass":11:{s:2:"id";s:5:"23280";s:2:"cm";s:6:"514634";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1460130435";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:49:"Informe académico SPP1 2015A, 2015B y SPP2 2016A";}i:518126;O:8:"stdClass":11:{s:2:"id";s:5:"23587";s:2:"cm";s:6:"518126";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1460991663";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:48:"Informe académico SPP2 2016 (sólo matrículas)";}i:516332;O:8:"stdClass":11:{s:2:"id";s:5:"23452";s:2:"cm";s:6:"516332";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1460554160";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:76:"Reporte TalentosPilos calificaciones cursos cuantitativos (Abril 13 de 2016)";}i:524959;O:8:"stdClass":12:{s:2:"id";s:4:"4443";s:2:"cm";s:6:"524959";s:3:"mod";s:4:"page";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"26";s:5:"added";s:10:"1462983585";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:35:"Reporte Detallado de Calificaciones";s:7:"onclick";s:229:"window.open('http://localhost:81/moodle/mod/page/view.php?id=524959&amp;inpopup=1', '', 'width=620,height=450,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;";}i:580227;O:8:"stdClass":11:{s:2:"id";s:5:"27064";s:2:"cm";s:6:"580227";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1481737966";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:52:"Reporte notas finales por curso talentospilos 2016-2";}i:527805;O:8:"stdClass":13:{s:2:"id";s:5:"50798";s:2:"cm";s:6:"527805";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:1:"8";s:5:"added";s:10:"1464015172";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:38:".
+REPORTE DE CALIFICACIONES POR ÁREA";s:7:"content";s:154:"<div class="no-overflow"><p><span style="color: #ffffff;"><strong>.</strong></span></p>
+<p><strong>REPORTE DE CALIFICACIONES POR ÁREA</strong></p></div>";}i:521961;O:8:"stdClass":11:{s:2:"id";s:5:"23860";s:2:"cm";s:6:"521961";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1461937571";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:50:"Reporte de calificaciones cursos Ciudadanía y Paz";}i:526183;O:8:"stdClass":11:{s:2:"id";s:5:"24201";s:2:"cm";s:6:"526183";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1463417757";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:42:"Reporte de calificaciones cursos Inglés I";}i:526185;O:8:"stdClass":11:{s:2:"id";s:5:"24202";s:2:"cm";s:6:"526185";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1463417836";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:56:"Reporte de calificaciones cursos Imaginación y Lenguaje";}i:527811;O:8:"stdClass":11:{s:2:"id";s:5:"24269";s:2:"cm";s:6:"527811";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1464016079";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:41:"Reporte de calificaciones cursos Química";}i:527813;O:8:"stdClass":11:{s:2:"id";s:5:"24270";s:2:"cm";s:6:"527813";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1464016246";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:45:"Reporte de calificaciones cursos Matemáticas";}i:527820;O:8:"stdClass":11:{s:2:"id";s:5:"24271";s:2:"cm";s:6:"527820";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1464017373";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:40:"Reporte de calificaciones cursos Física";}i:527821;O:8:"stdClass":11:{s:2:"id";s:5:"24272";s:2:"cm";s:6:"527821";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1464017434";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:42:"Reporte de calificaciones cursos Biología";}i:528425;O:8:"stdClass":11:{s:2:"id";s:5:"24299";s:2:"cm";s:6:"528425";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1464190593";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:56:"Reporte de calificaciones cursos Énfasis I: Humanidades";}i:535828;O:8:"stdClass":11:{s:2:"id";s:5:"24559";s:2:"cm";s:6:"535828";s:3:"mod";s:3:"url";s:7:"section";s:1:"2";s:9:"sectionid";s:6:"392714";s:6:"module";s:2:"27";s:5:"added";s:10:"1467211449";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:44:"Reporte de calificaciones cursos Énfasis II";}i:519375;O:8:"stdClass":11:{s:2:"id";s:5:"23661";s:2:"cm";s:6:"519375";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1461270939";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:57:"Reporte de novedades Talentos (Febrero- Marzo) Académica";}i:519380;O:8:"stdClass":11:{s:2:"id";s:5:"23662";s:2:"cm";s:6:"519380";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1461271363";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:58:"Reportes de novedades Talentos (Febrero-Marzo) Psicosocial";}i:510640;O:8:"stdClass":11:{s:2:"id";s:5:"23011";s:2:"cm";s:6:"510640";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1459518255";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:4:"name";s:47:"Reporte de novedades Talentos (Febrero - Marzo)";}i:512539;O:8:"stdClass":11:{s:2:"id";s:5:"23157";s:2:"cm";s:6:"512539";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1459808455";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:37:"Reporte de novedades Talentos (Abril)";}i:515593;O:8:"stdClass":11:{s:2:"id";s:5:"23399";s:2:"cm";s:6:"515593";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1460382507";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:38:"Reporte de novedades Ser Pilo Paga 1.0";}i:520542;O:8:"stdClass":11:{s:2:"id";s:5:"23749";s:2:"cm";s:6:"520542";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1461618479";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:54:"Reporte de novedades Ser Pilo Paga 2.0 (Febrero-Marzo)";}i:523111;O:8:"stdClass":11:{s:2:"id";s:5:"23968";s:2:"cm";s:6:"523111";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1462314937";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:42:"Actualización de Datos de los Estudiantes";}i:523110;O:8:"stdClass":11:{s:2:"id";s:5:"23967";s:2:"cm";s:6:"523110";s:3:"mod";s:3:"url";s:7:"section";s:1:"3";s:9:"sectionid";s:6:"410507";s:6:"module";s:2:"27";s:5:"added";s:10:"1462314908";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:34:"Solicitud de Monitores Académicos";}i:507946;O:8:"stdClass":11:{s:2:"id";s:5:"22786";s:2:"cm";s:6:"507946";s:3:"mod";s:3:"url";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"27";s:5:"added";s:10:"1456424890";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:33:"Base de datos TALENTOS PILOS 2016";}i:507945;O:8:"stdClass":11:{s:2:"id";s:5:"22785";s:2:"cm";s:6:"507945";s:3:"mod";s:3:"url";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"27";s:5:"added";s:10:"1456424890";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:32:"Base de datos SER PILO PAGA 2016";}i:503909;O:8:"stdClass":11:{s:2:"id";s:5:"22518";s:2:"cm";s:6:"503909";s:3:"mod";s:3:"url";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"27";s:5:"added";s:10:"1457450482";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:32:"Base de datos SER PILO PAGA 2015";}i:507951;O:8:"stdClass":13:{s:2:"id";s:5:"49289";s:2:"cm";s:6:"507951";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:1:"8";s:5:"added";s:10:"1459269114";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:8:"Etiqueta";s:7:"content";s:37:"<div class="no-overflow"><hr /></div>";}i:503914;O:8:"stdClass":16:{s:2:"id";s:6:"313731";s:2:"cm";s:6:"503914";s:3:"mod";s:8:"resource";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"11";s:5:"added";s:10:"1457451182";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"icon";s:16:"f/spreadsheet-24";s:4:"name";s:39:"Datos Básicos Talentos Pilos 1.0 y 2.0";s:7:"content";s:246:"<div class="no-overflow"><p>Documento Excel con tres pestañas:</p>
+<ul>
+<li>Datos Básicos Ser Pilo Paga 1.0 (2015)</li>
+<li>Datos Básicos Ser Pilo Paga 2.0 (2016 - Sin Talentos)</li>
+<li>Datos Básicos Talentos Pilos 2016</li>
+</ul></div>";s:7:"onclick";s:234:"window.open('http://localhost:81/moodle/mod/resource/view.php?id=503914&amp;redirect=1', '', 'width=620,height=600,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;";s:10:"customdata";s:118:"a:4:{s:10:"popupwidth";i:620;s:11:"popupheight";i:600;s:8:"showsize";i:1;s:11:"filedetails";a:1:{s:4:"size";i:62203;}}";}i:504993;O:8:"stdClass":11:{s:2:"id";s:5:"22592";s:2:"cm";s:6:"504993";s:3:"mod";s:3:"url";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"27";s:5:"added";s:10:"1457962166";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:22:"Listados de Asistencia";}i:512537;O:8:"stdClass":11:{s:2:"id";s:5:"23156";s:2:"cm";s:6:"512537";s:3:"mod";s:3:"url";s:7:"section";s:1:"4";s:9:"sectionid";s:6:"398941";s:6:"module";s:2:"27";s:5:"added";s:10:"1459808062";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:43:"Listados de asistencia separados por grupos";}i:519595;O:8:"stdClass":12:{s:2:"id";s:5:"23678";s:2:"cm";s:6:"519595";s:3:"mod";s:3:"url";s:7:"section";s:1:"5";s:9:"sectionid";s:6:"417210";s:6:"module";s:2:"27";s:5:"added";s:10:"1461333156";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:41:"MÓDULOS ACADÉMICOS TALENTOS PILOS 2016A";s:7:"onclick";s:229:"window.open('http://localhost:81/moodle/mod/url/view.php?id=519595&amp;redirect=1', '', 'width=620,height=450,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;";}i:557333;O:8:"stdClass":11:{s:2:"id";s:5:"40356";s:2:"cm";s:6:"557333";s:3:"mod";s:6:"assign";s:7:"section";s:1:"6";s:9:"sectionid";s:6:"419754";s:6:"module";s:2:"29";s:5:"added";s:10:"1473794877";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:15:"Tarea de Prueba";}i:562475;O:8:"stdClass":13:{s:2:"id";s:5:"53463";s:2:"cm";s:6:"562475";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:9:"sectionid";s:6:"419754";s:6:"module";s:1:"8";s:5:"added";s:10:"1475183567";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:15:"showdescription";s:1:"1";s:4:"name";s:18:"
+
+
+
+
+
+
+
+
+";s:7:"content";s:946:"<div class="no-overflow"><table border="0" align="center">
+<tbody>
+<tr>
+<td><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Ficha%20del%20estudiantee.png" width="246" height="116" /></td>
+<td><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Reporte%20general.png" width="242" height="114" /></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Acad%C3%A9mica.png" width="140" height="140" /><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Inasistencia.png" width="140" height="140" /><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Listados.png" width="140" height="140" /><img src="http://localhost:81/moodle/pluginfile.php/1088803/mod_label/intro/Socioeducativo.png" width="140" height="140" /></p></div>";}i:531382;O:8:"stdClass":11:{s:2:"id";s:4:"9075";s:2:"cm";s:6:"531382";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:9:"sectionid";s:6:"455669";s:6:"module";s:2:"10";s:5:"added";s:10:"1465341349";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:4:"name";s:34:"AUTOEVALUACIÓN INDIVIDUAL - final";}i:531368;O:8:"stdClass":12:{s:2:"id";s:4:"9071";s:2:"cm";s:6:"531368";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:9:"sectionid";s:6:"455669";s:6:"module";s:2:"10";s:5:"added";s:10:"1465341349";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:12:"availability";s:59:"{"op":"&","c":[{"type":"grade","id":86397}],"showc":[true]}";s:4:"name";s:28:"EVALUACIÓN PROFESOR - final";}i:531378;O:8:"stdClass":12:{s:2:"id";s:4:"9072";s:2:"cm";s:6:"531378";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:9:"sectionid";s:6:"455669";s:6:"module";s:2:"10";s:5:"added";s:10:"1465341349";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:12:"availability";s:59:"{"op":"&","c":[{"type":"grade","id":86390}],"showc":[true]}";s:4:"name";s:25:"EVALUACIÓN CURSO - final";}i:531380;O:8:"stdClass":12:{s:2:"id";s:4:"9073";s:2:"cm";s:6:"531380";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:9:"sectionid";s:6:"455669";s:6:"module";s:2:"10";s:5:"added";s:10:"1465341349";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:12:"availability";s:59:"{"op":"&","c":[{"type":"grade","id":86394}],"showc":[true]}";s:4:"name";s:27:"EVALUACIÓN MONITOR - final";}i:531384;O:8:"stdClass":12:{s:2:"id";s:4:"9076";s:2:"cm";s:6:"531384";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:9:"sectionid";s:6:"455669";s:6:"module";s:2:"10";s:5:"added";s:10:"1465341349";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:12:"availability";s:59:"{"op":"&","c":[{"type":"grade","id":86395}],"showc":[true]}";s:4:"name";s:39:"EVALUACIÓN PLAN TALENTOS PILOS - final";}}s:12:"sectioncache";a:8:{i:0;O:8:"stdClass":3:{s:2:"id";s:6:"392712";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:6:"392713";s:4:"name";s:19:"REPORTES ASISTENCIA";s:7:"visible";s:1:"0";s:12:"availability";s:70:"{"op":"&","c":[{"type":"date","d":"<","t":1496120400}],"showc":[true]}";}i:2;O:8:"stdClass":4:{s:2:"id";s:6:"392714";s:4:"name";s:51:"REPORTES ACADÉMICOS (matrículas y calificaciones)";s:7:"visible";s:1:"0";s:12:"availability";s:70:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[true]}";}i:3;O:8:"stdClass":4:{s:2:"id";s:6:"410507";s:4:"name";s:17:"SEGUIMIENTOS ASES";s:7:"visible";s:1:"0";s:12:"availability";s:71:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[false]}";}i:4;O:8:"stdClass":4:{s:2:"id";s:6:"398941";s:4:"name";s:8:"LISTADOS";s:7:"visible";s:1:"0";s:12:"availability";s:71:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[false]}";}i:5;O:8:"stdClass":4:{s:2:"id";s:6:"417210";s:4:"name";s:20:"Módulos Académicos";s:7:"visible";s:1:"0";s:12:"availability";s:71:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[false]}";}i:6;O:8:"stdClass":4:{s:2:"id";s:6:"419754";s:4:"name";s:28:"Evaluaciones por Estudiantes";s:7:"visible";s:1:"0";s:12:"availability";s:71:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[false]}";}i:7;O:8:"stdClass":5:{s:2:"id";s:6:"455669";s:4:"name";s:27:"AUTOEVALUACIÓN FINAL 2016B";s:7:"summary";s:189:"<p>Este instrumento estará disponible hasta el <strong>8</strong><strong> de Diciembre a las 11:55 p.m.</strong></p>
+<p>Recuerde que debe realizar cada una de las 5 Autoevaluaciones.</p>";s:7:"visible";s:1:"0";s:12:"availability";s:71:"{"op":"&","c":[{"type":"date","d":"<","t":1485752400}],"showc":[false]}";}}s:9:"shortname";s:16:"00-REPORTES_ASES";s:8:"fullname";s:13:"Reportes Ases";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"1";s:14:"groupmodeforce";s:1:"1";s:8:"cacherev";s:10:"1531860779";}

@@ -19,14 +19,13 @@ sudo apt-get install \
      curl \
      gnupg2 \
      software-properties-common \
-     postgresql-9.6-server \
      postgresql-9.6   
 
 sudo -u postgres bash -c "psql -c \"CREATE USER ubuntu WITH PASSWORD 'talentos';\""
 
 sudo -u postgres bash -c "psql -c \"CREATE DATABASE moodle34 OWNER ubuntu;\""
 
-sudo -u postgres bash -c "psql -d moodle34 -f moodle_33_june_3.sql"
+sudo -u postgres bash -c "psql -d moodle34 -f moodle33_june_3.sql"
 
 cd docker_moodle34
 
