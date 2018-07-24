@@ -33,6 +33,6 @@ Y restuarar el archivo en la base de datos creada
 
 [backup]: https://drive.google.com/open?id=1to_ntCJcGlqnYK5xkSS_4oZTjxhSgi6M
 
-~~~
+```shell
 $ psql -U ubuntu -d moodle34 -f /ruta/del/archivo_descargado.sql
-~~~
+```
