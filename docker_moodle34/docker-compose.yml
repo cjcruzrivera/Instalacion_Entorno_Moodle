@@ -6,8 +6,8 @@ services:
     restart: always
     container_name: moodle
     volumes:
-      - /home/sistemascamilo/Documentos/ASES/docker_moodle33/moodledata:/var/www/moodledata
-      - /home/sistemascamilo/Documentos/ASES/docker_moodle33/moodle:/var/www/html/moodle
+      - ./moodledata:/var/www/moodledata
+      - ./moodle:/var/www/html/moodle
     expose: 
       - 80
     ports:
