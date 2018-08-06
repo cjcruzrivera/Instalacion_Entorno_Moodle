@@ -23,9 +23,9 @@ $ apt-get install postgresql-9.6
 ~~~
 $ su postgres
 
-$ psql -c \"CREATE USER ubuntu WITH PASSWORD 'talentos';\"
-$ psql -c \"ALTER ROLE ubuntu WITH SUPERUSER\"
-$ psql -c \"CREATE DATABASE moodle34 OWNER ubuntu;\"
+$ psql -c "CREATE USER ubuntu WITH PASSWORD 'talentos';"
+$ psql -c "ALTER ROLE ubuntu WITH SUPERUSER"
+$ psql -c "CREATE DATABASE moodle34 OWNER ubuntu;"
 ~~~ 
 >Posteriormente descargar el archivo backup del siguiente enlace solicitando permisos al área de sistemas propietarios del archivo.  
 [Backup Base de Datos][backup]  
